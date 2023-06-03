@@ -10,10 +10,10 @@ I'm currently learning the intricacies of Angular and TypeScript to build powerf
 I'm deepening my understanding of modern front-end development techniques and practices, including responsive design and web accessibility.
 
 **Related knowledge:**  
-I'm expanding my knowledge in UX/UI design to more effectively collaborate with designers and create better user experiences.
+I'm expanding my knowledge in UX/UI design to more effectively collaborate with designers and create better user experiences.<br><br>
 
 ## I'm currently working on 🛠
-My personal portfolio, which I'll share with you as soon as it's finished.
+My personal portfolio, which I'll share with you as soon as it's finished.<br><br>
 
 - 👨‍💻 All of my projects will be soon available at (yusuffiliz.com)
 
