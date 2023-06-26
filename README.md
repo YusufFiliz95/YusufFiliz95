@@ -13,9 +13,9 @@ I'm deepening my understanding of modern front-end development techniques and pr
 I'm expanding my knowledge in UX/UI design to more effectively collaborate with designers and create better user experiences.<br><br>
 
 ## I'm currently working on 🛠
-My personal portfolio, which I'll share with you as soon as it's finished.<br><br>
+My personal portfolio, which is officially completed, but I am still making tweaks to perfect it.<br><br>
 
-- 👨‍💻 All of my projects will be soon available at (yusuffiliz.com)
+- 👨‍💻 All of my projects are aviable at yusuffiliz.com
 
 - 📫 How to reach me **y.filiz.ch@gmail.com**<br><br>
 
