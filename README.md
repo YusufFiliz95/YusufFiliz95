@@ -15,7 +15,7 @@ I'm expanding my knowledge in UX/UI design to more effectively collaborate with 
 ## I'm currently working on 🛠
 My personal portfolio, which is officially completed, but I am still making tweaks to perfect it.<br><br>
 
-- 👨‍💻 All of my projects are aviable at yusuffiliz.com
+- 👨‍💻 Some of my projects are aviable at yusuffiliz.com
 
 - 📫 How to reach me **y.filiz.ch@gmail.com**<br><br>
 
