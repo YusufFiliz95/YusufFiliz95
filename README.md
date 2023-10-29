@@ -17,7 +17,7 @@ My new Project TJ.<br><br>
 
 - 👨‍💻 Some of my projects are aviable at yusuffiliz.com
 
-- 📫 How to reach me **y.filiz.ch@gmail.com**<br><br>
+- 📫 How to reach me **contact.yusuffiliz@gmail.com**<br><br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
