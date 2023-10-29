@@ -13,7 +13,7 @@ I'm deepening my understanding of modern front-end development techniques and pr
 I'm expanding my knowledge in UX/UI design to more effectively collaborate with designers and create better user experiences.<br><br>
 
 ## I'm currently working on 🛠
-My new Project TJ.<br><br>
+My new Project tradetrackster.<br><br>
 
 - 👨‍💻 Some of my projects are aviable at yusuffiliz.com
 
